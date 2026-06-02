@@ -1,0 +1,13 @@
+.idea/
+*.iml
+.venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+Dataset/
+*.h5
+*.pkl
+*.pth
+*.jpg
+*.png
+*.jpeg

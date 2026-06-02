@@ -1,0 +1,8 @@
+numpy
+opencv-python
+matplotlib
+seaborn
+jupyter
+tensorflow
+
+# python version 3.10

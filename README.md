@@ -3,8 +3,9 @@
 CNN that identifies ₹10, ₹20, ₹50, ₹100, ₹200, ₹500, ₹2000 notes using TensorFlow.
 
 ## Results
-**Best Validation Accuracy: 94.9%**
-![Training Plot](training_plot.png)
+**Best Validation Accuracy: 83.7%**
+![Training Plot](training_p<img width="436" height="313" alt="training_plot" src="https://github.com/user-attachments/assets/69cabd0a-d28c-497c-a834-b5f0a7906509" />
+lot.png)
 
 ## Demo
 Model correctly classifies a ₹500 note using ORB feature matching:
